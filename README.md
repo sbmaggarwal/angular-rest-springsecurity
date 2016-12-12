@@ -1,8 +1,6 @@
 angular-rest-springsecurity
 ===========================
 
-[![Build Status](https://travis-ci.org/philipsorst/angular-rest-springsecurity.svg?branch=master)](https://travis-ci.org/philipsorst/angular-rest-springsecurity)
-
 An example AngularJS Application that uses a Spring Security protected Jersey REST backend based on Hibernate/JPA.
 
 About
